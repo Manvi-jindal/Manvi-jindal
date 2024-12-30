@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manvijindal204@gmail.com**
 
-- 📄 Know about me from my resume [https://drive.google.com/file/d/1ZxoQbu-qzLXz6_yMpcMXaySgWdDYe_PE/view?usp=sharing].
+- 📄 Know about me  [[https://drive.google.com/file/d/1ZxoQbu-qzLXz6_yMpcMXaySgWdDYe_PE/view?usp=sharing](https://startling-bublanina-fccabe.netlify.app/)].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
