@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **React** and practicing **DSA**
 
-- 📫 How to reach me **manvijindal204@gmail.com**
+- 📫 How to reach me **manvijindal221@gmail.com**
 
 - 📄 Know about me  [[https://drive.google.com/file/d/1ZxoQbu-qzLXz6_yMpcMXaySgWdDYe_PE/view?usp=sharing](https://startling-bublanina-fccabe.netlify.app/)].
 
